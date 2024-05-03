@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>1</confLang>
+
+<character>
+<race>Forest gnome</race>
+<class>Wizard</class>
+<level>2</level>
+<background>Sage</background>
+
+<str>12</str>
+<dex>15</dex>
+<con>13</con>
+<int>16</int>
+<wis>15</wis>
+<cha>6</cha>
+
+<lvl lvl="1"><hp_brut>6</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="2"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+
+<raceCustom></raceCustom>
+<classPath>Evocation</classPath>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>13</pack>
+<backSpe>Researcher</backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">1,8</skillsProf>
+<skillsProf id="2">1,6</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2"></toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">Common,Gnomish</languages>
+<languages id="1"></languages>
+<languages id="2">Goblin,Giant</languages>
+<languages id="3"></languages>
+
+<innateSpell lvl="0">minor illusion</innateSpell>
+<knownSpell lvl="0">dancing lights</knownSpell>
+<knownSpell lvl="0">fire bolt</knownSpell>
+<knownSpell lvl="0">light</knownSpell>
+<knownSpell lvl="1">burning hands</knownSpell>
+<knownSpell lvl="1">chromatic orb</knownSpell>
+<knownSpell lvl="1">color spray</knownSpell>
+<knownSpell lvl="1">detect magic</knownSpell>
+<knownSpell lvl="1">silent image</knownSpell>
+<knownSpell lvl="1">comprehend languages</knownSpell>
+<knownSpell lvl="1">magic missile</knownSpell>
+<knownSpell lvl="1">alarm</knownSpell>
+
+<gp>10</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>0</armor>
+<shield>0</shield>
+<weapon>3</weapon>
+<weaponQ>1</weaponQ>
+<tools>0,0</tools>
+
+<item>31,41,80,81,38,5,90,76,39,17,23,71,92</item>
+<itemQ>1,1,1,1,1,1,10,10,1,1,1,1,1</itemQ>
+<itemX>small knife, belt pouch</itemX>
+<name>Rashik Firepalm</name>
+<sexe>0</sexe>
+<age>42</age>
+<height>3.5 ft</height>
+<weight>33 lb.</weight>
+<alignment>4</alignment>
+<xp>0</xp>
+<eyes>Yellow</eyes>
+<skin>Bronze</skin>
+<hair>None</hair>
+
+<appearance>Faintly glowing left hand, no hair visible anywhere. Generally smiling with large, wide open eyes. Clothing often has small scorch marks</appearance>
+<traits>Quick to frustration and lashing out when feeling trapped. I'm obsessed with fire and light</traits>
+<ideals>Knowledge should be freely gained and shared, none should restrict the flow of information</ideals>
+<bonds></bonds>
+<flaws>I'm terrified by darkness and tight spaces</flaws>
+
+<backstory>When I was young I fell into a small dark hole in the ground. As I hit the ground a small crystal embedded itself in my left hand. The hole sealed behind me and I was trapped underground for 5 days before rescued by goblins. On day 3 I cast my first spell in terror of the darkness, causing my left hand to start glowing. Unfortunately I was untrained and cast a very weak version with such conviction that it is now permanent and damaged my ability to cast spells. 
+
+Ever since then I've focused my entire being on learning spells and abilities that can push back the darkness, in one way or another. My focus on fire and constant glowing annoyed those I grew up with, so I left home and adopted my nickname "Firepalm" in place of my surname. Eventually I found a group of giants who valued my skills and were mostly amused by their tiny glowing friend. I lived with them researching fire and light (both magical and mundane) until I heard the call of adventure...</backstory>
+<allies></allies>
+<features>One cantrip slot consumed by a lesser light spell that is always active. This causes my left hand to constantly glow</features>
+<treasure>Scroll of Earth Tremor,
+Scroll of Enhance Ability
+Arcelous's book, gives +1 to history while in my possession
+Arcelous's Gem</treasure>
+
+</character>
+</builder>
