@@ -1,0 +1,27 @@
+.basics {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
+    border-bottom: 1px solid black;
+}
+.basics > div {
+    padding: 1em;
+}
+.basics .info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+}
+.basics > .info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.basics > .info-section> .info > .data {
+    border-bottom: 1px solid gray;
+    font-weight: bold;
+}
+.basics > .info-section> .info > .label {
+    padding-top: .1em;
+    font-size: 0.9em;
+}
