@@ -64,6 +64,7 @@
 <knownSpell lvl="0">dancing lights</knownSpell>
 <knownSpell lvl="0">fire bolt</knownSpell>
 <knownSpell lvl="0">light</knownSpell>
+<knownSpell lvl="0">minor illusion</knownSpell>
 <knownSpell lvl="1">burning hands</knownSpell>
 <knownSpell lvl="1">chromatic orb</knownSpell>
 <knownSpell lvl="1">color spray</knownSpell>
@@ -73,6 +74,7 @@
 <knownSpell lvl="1">magic missile</knownSpell>
 <knownSpell lvl="1">alarm</knownSpell>
 <knownSpell lvl="2">flaming sphere</knownSpell>
+<knownSpell lvl="2">phantasmal force</knownSpell>
 <knownSpell lvl="2">phantasmal force</knownSpell>
 
 <gp>10</gp>
@@ -121,7 +123,8 @@ Sending stone (sends 25 words / day)
 Scroll of Invisibility
 Guano
 Basilisk Eyes (2 petrification, 4 poison)
-Sapphire in the shape of the immaculate lady</treasure>
+Sapphire in the shape of the immaculate lady
+Pendant of fireball (1 charge)</treasure>
 
 </character>
 </builder>
