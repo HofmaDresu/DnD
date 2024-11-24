@@ -73,9 +73,10 @@
 <knownSpell lvl="1">comprehend languages</knownSpell>
 <knownSpell lvl="1">magic missile</knownSpell>
 <knownSpell lvl="1">alarm</knownSpell>
+<knownSpell lvl="1">earth tremor</knownSpell>
 <knownSpell lvl="2">flaming sphere</knownSpell>
 <knownSpell lvl="2">phantasmal force</knownSpell>
-<knownSpell lvl="2">phantasmal force</knownSpell>
+<knownSpell lvl="2"></knownSpell>
 
 <gp>10</gp>
 <pp>0</pp>
@@ -85,8 +86,8 @@
 
 <armor>0</armor>
 <shield>0</shield>
-<weapon>3</weapon>
-<weaponQ>1</weaponQ>
+<weapon>3,2</weapon>
+<weaponQ>1,1</weaponQ>
 <tools>0,0</tools>
 
 <item>31,41,80,81,38,5,90,76,39,17,23,71,92</item>
@@ -123,7 +124,6 @@ Sending stone (sends 25 words / day)
 Scroll of Invisibility
 Guano
 Basilisk Eyes (2 petrification, 4 poison)
-Sapphire in the shape of the immaculate lady
 Pendant of fireball (1 charge)</treasure>
 
 </character>
