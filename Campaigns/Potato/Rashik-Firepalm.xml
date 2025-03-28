@@ -6,7 +6,7 @@
 <character>
 <race>Forest gnome</race>
 <class>Wizard</class>
-<level>3</level>
+<level>4</level>
 <background>Sage</background>
 
 <str>12</str>
@@ -19,7 +19,7 @@
 <lvl lvl="1"><hp_brut>6</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="2"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="3"><hp_brut>4</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
-<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="4"><hp_brut>1</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2><feat>Elemental Adept</feat><feat_custom>-1</feat_custom><feat_custom2>-1</feat_custom2></lvl>
 <lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
@@ -65,6 +65,7 @@
 <knownSpell lvl="0">fire bolt</knownSpell>
 <knownSpell lvl="0">light</knownSpell>
 <knownSpell lvl="0">minor illusion</knownSpell>
+<knownSpell lvl="0">mage hand</knownSpell>
 <knownSpell lvl="1">burning hands</knownSpell>
 <knownSpell lvl="1">chromatic orb</knownSpell>
 <knownSpell lvl="1">color spray</knownSpell>
@@ -74,8 +75,10 @@
 <knownSpell lvl="1">magic missile</knownSpell>
 <knownSpell lvl="1">alarm</knownSpell>
 <knownSpell lvl="1">earth tremor</knownSpell>
+<knownSpell lvl="1">unseen servant</knownSpell>
 <knownSpell lvl="2">flaming sphere</knownSpell>
 <knownSpell lvl="2">phantasmal force</knownSpell>
+<knownSpell lvl="2">aganazzar's scorcher</knownSpell>
 <knownSpell lvl="2"></knownSpell>
 
 <gp>10</gp>
@@ -121,10 +124,12 @@ Ship fog gem
 1/2 bag of arcane residium
 Uncursed Orb of Arceleus (+1 spell attack and spell dc)
 Sending stone (sends 25 words / day)
-Scroll of Invisibility
 Guano
 Basilisk Eyes (2 petrification, 4 poison)
-Pendant of fireball (1 charge)</treasure>
+Pendant of fireball (0 charge)
+Redclaw's right claw
+Enchanted Rug Beater
+Claw from Sagauhen, that was once burning but no longer is</treasure>
 
 </character>
 </builder>
