@@ -79,7 +79,7 @@
 <knownSpell lvl="2">flaming sphere</knownSpell>
 <knownSpell lvl="2">phantasmal force</knownSpell>
 <knownSpell lvl="2">aganazzar's scorcher</knownSpell>
-<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2">see invisibility</knownSpell>
 
 <gp>10</gp>
 <pp>0</pp>
@@ -129,7 +129,8 @@ Basilisk Eyes (2 petrification, 4 poison)
 Pendant of fireball (0 charge)
 Redclaw's right claw
 Enchanted Rug Beater
-Claw from Sagauhen, that was once burning but no longer is</treasure>
+Claw from Sagauhen, that was once burning but no longer is
+School of Conjuration candle</treasure>
 
 </character>
 </builder>
