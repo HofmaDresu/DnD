@@ -5,8 +5,8 @@
 
 <character>
 <race>Forest gnome</race>
-<class>Wizard</class>
-<level>4</level>
+<class>Artificer</class>
+<level>5</level>
 <background>Sage</background>
 
 <str>12</str>
@@ -19,8 +19,8 @@
 <lvl lvl="1"><hp_brut>6</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="2"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="3"><hp_brut>4</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
-<lvl lvl="4"><hp_brut>1</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2><feat>Elemental Adept</feat><feat_custom>-1</feat_custom><feat_custom2>-1</feat_custom2></lvl>
-<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="4"><hp_brut>1</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2><feat>Medium Armor Master</feat><feat_custom>-1</feat_custom><feat_custom2>-1</feat_custom2></lvl>
+<lvl lvl="5"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 <lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
@@ -38,21 +38,21 @@
 <lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
 
 <raceCustom></raceCustom>
-<classPath>Evocation</classPath>
+<classPath>Armorer</classPath>
 <styleCombat1></styleCombat1>
 <styleCombat2></styleCombat2>
 <favoredEnemy0></favoredEnemy0>
 <favoredEnemy6></favoredEnemy6>
 <favoredEnemy14></favoredEnemy14>
-<pack>13</pack>
+<pack>24</pack>
 <backSpe>Researcher</backSpe>
 
 <skillsProf id="0"></skillsProf>
-<skillsProf id="1">1,8</skillsProf>
+<skillsProf id="1">1,6</skillsProf>
 <skillsProf id="2">1,6</skillsProf>
 <skillsProf id="3"></skillsProf>
 <toolsProf id="0"></toolsProf>
-<toolsProf id="1"></toolsProf>
+<toolsProf id="1">thieves' tools, tinker's tools, smith's tools, smith's tools</toolsProf>
 <toolsProf id="2"></toolsProf>
 <toolsProf id="3"></toolsProf>
 <languages id="0">Common,Gnomish</languages>
@@ -61,25 +61,33 @@
 <languages id="3"></languages>
 
 <innateSpell lvl="0">minor illusion</innateSpell>
-<knownSpell lvl="0">dancing lights</knownSpell>
-<knownSpell lvl="0">fire bolt</knownSpell>
-<knownSpell lvl="0">light</knownSpell>
-<knownSpell lvl="0">minor illusion</knownSpell>
-<knownSpell lvl="0">mage hand</knownSpell>
-<knownSpell lvl="1">burning hands</knownSpell>
-<knownSpell lvl="1">chromatic orb</knownSpell>
-<knownSpell lvl="1">color spray</knownSpell>
-<knownSpell lvl="1">detect magic</knownSpell>
-<knownSpell lvl="1">silent image</knownSpell>
-<knownSpell lvl="1">comprehend languages</knownSpell>
+<knownSpell lvl="0">spare the dying</knownSpell>
+<knownSpell lvl="0">guidance</knownSpell>
+<knownSpell lvl="0"></knownSpell>
+<knownSpell lvl="0"></knownSpell>
+<knownSpell lvl="0"></knownSpell>
 <knownSpell lvl="1">magic missile</knownSpell>
-<knownSpell lvl="1">alarm</knownSpell>
-<knownSpell lvl="1">earth tremor</knownSpell>
-<knownSpell lvl="1">unseen servant</knownSpell>
-<knownSpell lvl="2">flaming sphere</knownSpell>
-<knownSpell lvl="2">phantasmal force</knownSpell>
-<knownSpell lvl="2">aganazzar's scorcher</knownSpell>
-<knownSpell lvl="2">see invisibility</knownSpell>
+<knownSpell lvl="1">thunderwave</knownSpell>
+<knownSpell lvl="1">cure wounds</knownSpell>
+<knownSpell lvl="1">false life</knownSpell>
+<knownSpell lvl="1">faerie fire</knownSpell>
+<knownSpell lvl="1">feather fall</knownSpell>
+<knownSpell lvl="1"></knownSpell>
+<knownSpell lvl="1"></knownSpell>
+<knownSpell lvl="1"></knownSpell>
+<knownSpell lvl="1"></knownSpell>
+<knownSpell lvl="1"></knownSpell>
+<knownSpell lvl="2">mirror image</knownSpell>
+<knownSpell lvl="2">shatter</knownSpell>
+<knownSpell lvl="2">enlarge/reduce</knownSpell>
+<knownSpell lvl="2">levitate</knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
+<knownSpell lvl="2"></knownSpell>
 
 <gp>10</gp>
 <pp>0</pp>
@@ -87,10 +95,10 @@
 <sp>0</sp>
 <cp>0</cp>
 
-<armor>0</armor>
+<armor>5</armor>
 <shield>0</shield>
-<weapon>3,2</weapon>
-<weaponQ>1,1</weaponQ>
+<weapon>3,2,0</weapon>
+<weaponQ>1,1,1</weaponQ>
 <tools>0,0</tools>
 
 <item>31,41,80,81,38,5,90,76,39,17,23,71,92</item>
@@ -107,19 +115,24 @@
 <skin>Bronze</skin>
 <hair>None</hair>
 
-<appearance>Faintly glowing left hand, no hair visible anywhere. Generally smiling with large, wide open eyes. Clothing often has small scorch marks</appearance>
-<traits>Quick to frustration and lashing out when feeling trapped. I'm obsessed with fire and light</traits>
-<ideals>Knowledge should be freely gained and shared, none should restrict the flow of information</ideals>
-<bonds></bonds>
-<flaws>I'm terrified by darkness and tight spaces</flaws>
+<appearance>(unarmored) Badly hurt by acid, missing flesh in areas and some bone visible
+
+(armored) Covered fully in crystalline blue armor, appearing as very ornate </appearance>
+<traits>I miss my ability to burn things. I have a new deity that I don't understand</traits>
+<ideals>Magic is neither good nor evil, but it can be perverted by bad wielders </ideals>
+<bonds>Immaculate Lady?</bonds>
+<flaws>I am vulnerable to bludgeoning damage</flaws>
 
 <backstory>When I was young I fell into a small dark hole in the ground. As I hit the ground a small crystal embedded itself in my left hand. The hole sealed behind me and I was trapped underground for 5 days before rescued by goblins. On day 3 I cast my first spell in terror of the darkness, causing my left hand to start glowing. Unfortunately I was untrained and cast a very weak version with such conviction that it is now permanent and damaged my ability to cast spells. 
 
+After dying in combat, I made a deal with an entity I believe to be the Immaculate Lady to resurrect me so I can continue my fight against Fel magic. This stripped me of my magical abilities, but granted me a powerful arcane suit of armor
+
 Ever since then I've focused my entire being on learning spells and abilities that can push back the darkness, in one way or another. My focus on fire and constant glowing annoyed those I grew up with, so I left home and adopted my nickname "Firepalm" in place of my surname. Eventually I found a group of giants who valued my skills and were mostly amused by their tiny glowing friend. I lived with them researching fire and light (both magical and mundane) until I heard the call of adventure...</backstory>
 <allies></allies>
-<features>One cantrip slot consumed by a lesser light spell that is always active. This causes my left hand to constantly glow</features>
-<treasure>Scroll of Enhance Ability
-Arcelous's book, gives +1 to history, +1 saving throws and ability checks against demons while in my possession
+<features>My old spell focus gem acts as smith's tools, magically creating a spectral form of whatever tool I need. This counts as my Right Tool for the Job usage and is permanent
+
+My crystal armor is a symbiote. If I fall unconscious I can spend 1 hit dice to recover</features>
+<treasure>(stolen) Arcelous's book, gives +1 to history, +1 saving throws and ability checks against demons while in my possession
 Ship fog gem
 1/2 bag of arcane residium
 Uncursed Orb of Arceleus (+1 spell attack and spell dc)
@@ -130,7 +143,9 @@ Pendant of fireball (0 charge)
 Redclaw's right claw
 Enchanted Rug Beater
 Claw from Sagauhen, that was once burning but no longer is
-School of Conjuration candle</treasure>
+School of Conjuration candle
+Tears of Failure (0/5 tears)
+Fel Menagerie book. </treasure>
 
 </character>
 </builder>
