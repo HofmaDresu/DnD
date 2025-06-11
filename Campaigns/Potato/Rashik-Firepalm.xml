@@ -62,10 +62,7 @@
 
 <innateSpell lvl="0">minor illusion</innateSpell>
 <knownSpell lvl="0">spare the dying</knownSpell>
-<knownSpell lvl="0">guidance</knownSpell>
-<knownSpell lvl="0"></knownSpell>
-<knownSpell lvl="0"></knownSpell>
-<knownSpell lvl="0"></knownSpell>
+<knownSpell lvl="0">mending</knownSpell>
 <knownSpell lvl="1">magic missile</knownSpell>
 <knownSpell lvl="1">thunderwave</knownSpell>
 <knownSpell lvl="1">cure wounds</knownSpell>
