@@ -1,7 +1,7 @@
 # Wamb
 Played by Alfonso
 ## Character
-* Alethi, 10th dan
+* Alethi, 10th dan lighteyes
 
 ## Goals
 * Become a rich noble 0/3
@@ -10,3 +10,4 @@ Played by Alfonso
 
 
 ## Notes / Ideas
+* Mercenary, tends to distance from others

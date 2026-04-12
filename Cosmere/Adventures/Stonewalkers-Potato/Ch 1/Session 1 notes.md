@@ -15,18 +15,27 @@ Have (RJ) notice bright-blue windspren starting to zip around in greater number 
 
 # Covenant Stone Crossroads
 ## Merchant Caravan
+* I'lya chatted with the caravan
 
 ### Wet and waylaid
+Succeeded in freeing the chull
 
 ## House Kholin
-
 ### Help prepare?
+* Helped set up storm shelters
 
 ### Ellar's Outburst
+* didn't react to Ellar
+* Listened to Taln's speach
 
 ### Discovering Kaiana
 
 ## Ambush
+
+
+Ended the session after 1 round of combat
+
+
 
 # Into the Storm
 ## Following Taszo
