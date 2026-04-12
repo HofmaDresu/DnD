@@ -11,4 +11,7 @@ Played by Margo
 
 
 ## Notes / Ideas
-* Currently no Radiant bonds or hints
+* interested in Lightweaver or Willshaper
+* watch for Secrecy or Freedom
+* Secrecy: 0
+* Freedom: 0
