@@ -13,4 +13,4 @@ Played by Sarah
 ## Notes / Ideas
 * watch for Truth and Secrecy (or anything)
 * Truth: 3
-* Secrecy: 2
+* Secrecy: 3

@@ -13,5 +13,5 @@ Played by Margo
 ## Notes / Ideas
 * interested in Lightweaver or Willshaper
 * watch for Secrecy or Freedom
-* Secrecy: 0
+* Secrecy: 1
 * Freedom: 0

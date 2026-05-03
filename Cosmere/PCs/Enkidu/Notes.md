@@ -13,5 +13,5 @@ Played by Per
 ## Notes / Ideas
 * Showed strong Protection and Stoneward
 * Watch for Protection and Tenacity
-* Protection: 4
+* Protection: 5
 * Tenacity: 3

@@ -6,8 +6,8 @@ Focus: 4/4
 Health: 29/29
 Focu: 4/4
 
-# Bandit 1: F
-Health: 12/12
+# Bandit 1: S
+Health: 0/12
 Focus: 0/2
 
 # Bandit 2: F
@@ -15,17 +15,17 @@ Health: 7/10
 Focus: 1/2
 Restrained
 
-# Bandit 3: S
-Health: 11/11
+# Bandit 3: F
+Health: 5/11
 Focus: 0/2
 
-# Bandit 4: S
+# Bandit 4: F
 Health: 14/14
 Focus: 0/2
 
 # Veth
-Health: 44
-Focus: 3
+Health: 0/40
+Focus: 0/3
 
 # Taszo
 Health: 17/17
