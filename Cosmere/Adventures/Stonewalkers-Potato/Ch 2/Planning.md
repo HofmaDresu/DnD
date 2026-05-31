@@ -181,6 +181,12 @@ Axehound 1:
 * Active hook: NOT FIRST
 ### Pursuit
 * distance 3/5
+* Obsticles
+** Crowded market square (Agility (adv) or Athletics)
+** (distance 4) Which way did he go? (stealth (adv) vs. perception)
+** (distance 2) Vedolin asks friendly beggers (persuasion (dis) vs persuasion/athletics/intimidation)
+** (distance 1) About face, tries to knock PC over
+** (distance 3) Doubles down and sprints (Athletics)
 * Success
 ** Cornered, says paid to watch by the Weaper
 ** Didn't get a good look at her, but [lead about Liss]
