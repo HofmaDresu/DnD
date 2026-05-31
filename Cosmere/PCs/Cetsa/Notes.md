@@ -13,4 +13,5 @@ Played by Sarah
 ## Notes / Ideas
 * watch for Truth and Secrecy (or anything)
 * Truth: 3
-* Secrecy: 3
+* Secrecy: 4
+* Attracted a brief attention of a Cryptic
