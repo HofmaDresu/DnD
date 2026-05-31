@@ -37,7 +37,7 @@
 ### Orneary Chull
 * Run by Ka
 ** Woman
-** Focus 2/2
+** Focus 0/2
 * Staying the night costs 2 marks
 * Wine supplied by Rebin
 ### Blueworks
@@ -162,11 +162,11 @@ Axehound 1:
 * Spanreed is broken
 * PCs very interested in fabrial or records may attract the attention of an inkspren or cryptic
 ### Endeavor
-* Success: 0/4
+* Success: 4/4
 ** Offers favor + a new spanreed paired with one of her own
 ** Grants access to her collection of books and records of comings and goings
 *** If PCs check records for Liss, give a lead
-* Failure: 0/3
+* Failure: 2/3
 ** Paid 20 marks for the effort
 ### People
 #### Brigthness Bettani
@@ -204,14 +204,14 @@ Axehound 1:
 
 # Notes
 ## Leads
-- [] A Thaylen menagerie owner won a strange chicken while gambling with a mysterious Shin traveler.
+- [x] A Thaylen menagerie owner won a strange chicken while gambling with a mysterious Shin traveler.
 - [] A Shin traveler visited the Aladar warcamp to attend the Red Rockbud, a gambling den.
 - [] The Shin traveler met with a full figured, attractive woman with dark hair in the Red Rockbud.
 - [] A woman matching that description has been seen wandering the Outer Market near the Crem Oven bakery.
 ## Favors
-* 
+* Bettani
 ## Po'ahu's reactions
 - [] The rock emits the sound of grinding from within.
-- [] The rock gently vibrates.
+- [x] The rock gently vibrates.
 - [] The rock tumbles without being pushed.
-- [] The rock cracks, but immediately reseals without a trace
+- [x] The rock cracks, but immediately reseals without a trace
