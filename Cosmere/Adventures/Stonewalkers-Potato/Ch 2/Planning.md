@@ -110,6 +110,9 @@ Warform 3:
 * Success: Reward is 3d6 marks or a favor, and can give a lead for Liss
 * Failure: Nel refuses to give info. Lirdan challenges a PCs to a dual. If they win, Nel offers a lead
 * Sharing a powerful secret may attract a Cryptic
+### Questions
+* Cetsa: I've heard you asking around about Brightlady Ralanat, what's your interest in her?
+* Wamb: You dress like a soldier but you're obviously not part of the 10 glorious armies. Why come here if not to fight and avenge your king, are you a deserter?
 
 ## Lost Radiants
 * Passive hook: If the PCs ask about the bandits or their strange glyphs, they’re pointed to theardents at the Devotary of the Mind.
@@ -200,6 +203,24 @@ Axehound 1:
 * Advantage on Agility and Stelth tests
 * Skittish, keeps looking over his shoulder
 * Takes any opportunity he can to improve station
+
+## Medica
+### Disturbance
+* Hear a commotion from the surgical tent, sounds like an angry voice and cries of pain
+* Dark-haired alethi soldier, wild look to his eyes, holding a scalpel in each hand, backed into a corner
+** Varinar
+** Keeps calling everyone deathspren and voidbringers
+** Because of your diagnostic expertice, you notice a tiny red line leading from the back of his hand and up under his sleeve and coming out his collar going to his temple
+* Fathom (spren) talks confidently
+** Send everyone out, breathe
+** Starts glowing, Varinar calls him a Herald
+*** Jezra, Jezra, I knew you'd come! Those deathspren and voidbringers tried to get me, but I had faith
+** Fathom says "we can help", power felt
+* Red line retreats back down into coat, not fully healed
+** DC 10 medicine check to identify the right cause (cremling bite) and medicine
+*** Success: Surgeons come back in, ask what he did. Gains favor and access to surgeon tent
+*** Failure: Surgeons come back in, ask what he did. Congratulated for helping
+*** Both: Name is known to Kholin army medicas
 
 
 # Notes
