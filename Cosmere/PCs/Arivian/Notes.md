@@ -12,6 +12,8 @@ Played by RJ
 ## Spren
 ### Fathom
 * Cultivation spren
-* Timid, but wants to heal everything
-* Doesn't want to hurt anything
-* Gardens gloves in the cognative realm, not considered a very good gardener
+* Mother was a Radient spren, now a shardblade owned by X
+* Fascinated by people (calls it fixing to start with), doesn't know why but driven
+* Family blames the Radient spren. He came without their family's blessing because the felt you trying to fix something important
+** He has forgotten this
+* Gardens gloves in the cognative realm, but doesn't actually care about them. Does it for the sake of appearances
