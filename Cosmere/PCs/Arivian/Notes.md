@@ -12,7 +12,7 @@ I am haunted by traumatic memories.
 ## Goals
 * Send help to the Caravan 0 / 3
 * Investigate Bright Lady 0 / 3
-* Speak the first ideal 1 / 3
+* Speak the first ideal 2 / 3
 
 
 ## Spren
