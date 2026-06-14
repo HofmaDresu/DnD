@@ -31,7 +31,7 @@
 
 # Bettani
 * Success! Got access to the library, spanreed, and favor
-* Finds that Relenant traveled to Outer market and X's warcamp
+* Finds that Relenant traveled to Outer market and Thanadal's  warcamp
 * Learned clue 1
 
 # Back in the Orneary chull

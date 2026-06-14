@@ -228,6 +228,13 @@ Axehound 1:
 *** Failure: Surgeons come back in, ask what he did. Congratulated for helping
 *** Both: Name is known to Kholin army medicas
 
+## Ralanat
+* Good friend of Brightlord Resi, who lost a humiliating dual to Brightloard Adolin Kholin
+* 3rd Dahn, buit inherited nothing from her 2nd dahn parents
+* Brightlord Thanadal dislikes Adolin
+* Thanadal's colors are red and brown
+* Ralanat is currently in Thanadal's warcamp
+* Nel would very much like to buy this info: 50 marks
 
 # Notes
 ## Leads
