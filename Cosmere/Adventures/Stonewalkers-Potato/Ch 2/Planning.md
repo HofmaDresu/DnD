@@ -37,7 +37,8 @@
 ### Orneary Chull
 * Run by Ka
 ** Woman
-** Focus 0/2
+** Focus 2/2
+** Defense: 11/12/11
 * Staying the night costs 2 marks
 * Wine supplied by Rebin
 ### Blueworks
@@ -112,7 +113,12 @@ Warform 3:
 * Sharing a powerful secret may attract a Cryptic
 ### Questions
 * Cetsa: I've heard you asking around about Brightlady Ralanat, what's your interest in her?
+* Cetsa: Natans arn't that common around here, almost as rare as seing a Shin or hearing a Parshman speak. What brings you out of the cold desolate wastes and into our _beautiful_ warcamps?
 * Wamb: You dress like a soldier but you're obviously not part of the 10 glorious armies. Why come here if not to fight and avenge your king, are you a deserter?
+* Endiku: I heard you tried to talk bandits down in the middle of an ambush. Impressive, but bandits don't deserve kindness. Why would you help them instead of helping Roshar by eliminating them?
+* Arivian: Rumor has it you're quite skilled in medicine. It's quite the demanding profession, what led you to it?
+* Cetsa: A Thaylan need to make a name for herself if she wants to become a wealth merchant. You've made a start causing little storms in camp with your friends, but maybe not the right start. Perhaps I can help if you tell me tell me what you want...
+** Nel could become a lucritive contact, supplying info on discounts and things that "fell out of the storm"
 
 ## Lost Radiants
 * Passive hook: If the PCs ask about the bandits or their strange glyphs, they’re pointed to theardents at the Devotary of the Mind.

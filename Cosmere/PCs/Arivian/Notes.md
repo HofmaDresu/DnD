@@ -23,3 +23,4 @@ I am haunted by traumatic memories.
 * Family blames the Radient spren. He came without their family's blessing because the felt you trying to fix something important
 ** He has forgotten this
 * Gardens gloves in the cognative realm, but doesn't actually care about them. Does it for the sake of appearances
+* higher pitched voice
