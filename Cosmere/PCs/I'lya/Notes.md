@@ -3,6 +3,12 @@ Played by Margo
 ## Character
 * Thaylen merchant
 
+## Purpose
+Establish a long-term storefront in Thaylen City.
+
+## Obstacle
+Everytime I get close to my saving up enough, the money has to be spent on something else 
+
 ## Goals
 * Send help to the Caravan 0 / 3
 * Investigate Bright Lady 0 / 3

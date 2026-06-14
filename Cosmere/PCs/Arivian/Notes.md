@@ -3,6 +3,12 @@ Played by RJ
 ## Character
 * Kharbranthian medic
 
+## Purpose
+Fulfill a specific oath or promise.
+
+## Obstacle
+I am haunted by traumatic memories.
+
 ## Goals
 * Send help to the Caravan 0 / 3
 * Investigate Bright Lady 0 / 3

@@ -3,6 +3,13 @@ Played by Per
 ## Character
 * Unkalaki officer
 
+## Purpose
+Save Others. I have an unrelenting need to 
+defend those who can’t protect themselves.
+
+## Obstacle
+Deep Regret. I committed terrible acts in the past and can’t forgive myself.
+
 ## Goals
 * Send help to the Caravan 0 / 3
 * Investigate Bright Lady 0 / 3
