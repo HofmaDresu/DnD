@@ -125,7 +125,7 @@ Warform 3:
 
 ### Before they leave / when Wamb 
 * There are some people in the booth over there that you should talk to them alone before you leave
-* 2 masked people, both dressed in very fasionable but not ostentations outfits, one man and one woman. They do not give their names, but the woman has a strange looking green a white chicken on her shoulder
+* 2 masked people, both dressed in very fasionable but not ostentations outfits, one man and one woman. They do not give their names, but the woman has a strange looking green and white chicken on her shoulder
 ** The bird is an Aviar of the Streamer breed. It has Cognitive concealment abilities
 * A bowl of firemoss is on the table, neither appear to be partaking
 * only the woman man. He says his debt has been bought by his master (he nods to the woman as he says this) and they will have jobs for him. Unlike his previous masters, this could be beneficial to Wamb if he proves himself. His master and her organization believe in rewarding the talented, and Wamb could gain access to amazing items, riches, and even his freedom. But first he has to prove himself
