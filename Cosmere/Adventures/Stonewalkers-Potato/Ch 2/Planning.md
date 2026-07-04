@@ -91,6 +91,7 @@ Warform 3:
 * Passive hook: If the PCs seek information through unofficial channels (or ask the merchants in chapter 1), they’re pointed to the Red Rockbud gambling den
 * Active hook: After the PCs have earned a reputation for themselves by finishing two other scenes, they’reinvited to the Red Rockbud
 * The Red Rockbud, a gambling den in Aladar's warcamp
+* Armor and weapons must be left at the door. They'll be returned when you leave
 ### People
 #### Nel
 * Only shares info with friends, and I'm friends with anyone I owe a favor
@@ -114,11 +115,21 @@ Warform 3:
 ### Questions
 * Cetsa: I've heard you asking around about Brightlady Ralanat, what's your interest in her?
 * Cetsa: Natans arn't that common around here, almost as rare as seing a Shin or hearing a Parshman speak. What brings you out of the cold desolate wastes and into our _beautiful_ warcamps?
-* Wamb: You dress like a soldier but you're obviously not part of the 10 glorious armies. Why come here if not to fight and avenge your king, are you a deserter?
-* Endiku: I heard you tried to talk bandits down in the middle of an ambush. Impressive, but bandits don't deserve kindness. Why would you help them instead of helping Roshar by eliminating them?
+* Wamb: It's rare that someone's name and likeness is passed to an estblishment like mine, what did you do to earn this honor?
+* Wamb: something about debt being sold
+* Enkidu: I heard you tried to talk bandits down in the middle of an ambush. Impressive, but bandits don't deserve kindness. Why would you help them instead of helping Roshar by eliminating them?
+* Enkidu: Your eyes bear the weight of a man chased by storms, what haunts you?
 * Arivian: Rumor has it you're quite skilled in medicine. It's quite the demanding profession, what led you to it?
 * Cetsa: A Thaylan need to make a name for herself if she wants to become a wealth merchant. You've made a start causing little storms in camp with your friends, but maybe not the right start. Perhaps I can help if you tell me tell me what you want...
 ** Nel could become a lucritive contact, supplying info on discounts and things that "fell out of the storm"
+
+### Before they leave / when Wamb 
+* There are some people in the booth over there that you should talk to them alone before you leave
+* 2 masked people, both dressed in very fasionable but not ostentations outfits, one man and one woman. They do not give their names, but the woman has a strange looking green a white chicken on her shoulder
+** The bird is an Aviar of the Streamer breed. It has Cognitive concealment abilities
+* A bowl of firemoss is on the table, neither appear to be partaking
+* only the woman man. He says his debt has been bought by his master (he nods to the woman as he says this) and they will have jobs for him. Unlike his previous masters, this could be beneficial to Wamb if he proves himself. His master and her organization believe in rewarding the talented, and Wamb could gain access to amazing items, riches, and even his freedom. But first he has to prove himself
+* His first job is: A group called The Sons of Honor seem interested in a new man in the monistary. They are an enemy of both our organization and bad for Roshar. Find out before them and tell us what you find. Keep our involvement secret
 
 ## Lost Radiants
 * Passive hook: If the PCs ask about the bandits or their strange glyphs, they’re pointed to theardents at the Devotary of the Mind.
@@ -249,3 +260,8 @@ Axehound 1:
 - [x] The rock gently vibrates.
 - [] The rock tumbles without being pushed.
 - [x] The rock cracks, but immediately reseals without a trace
+
+# Session 0
+* Reward: introduction + very light connection to Adolin Kholin. 
+** He says he may have a job for them soon. Job will be visit Rathalas and report on it. Rumors have said it's occupied by bandits lead by someone known as the Bandit Queen
+* This was his personal caravan, Tet Rebin is a wine merchant he favors

@@ -15,8 +15,8 @@ I am haunted by traumatic memories.
 * Speak the first ideal 2 / 3
 
 
-## Spren
-### Fathom
+# Spren
+## Fathom
 * Cultivation spren
 * Mother was a Radient spren, now a shardblade owned by X
 * Fascinated by people (calls it fixing to start with), doesn't know why but driven
@@ -24,3 +24,8 @@ I am haunted by traumatic memories.
 ** He has forgotten this
 * Gardens gloves in the cognative realm, but doesn't actually care about them. Does it for the sake of appearances
 * higher pitched voice
+
+
+## Reveal
+* Starts talking to Arivian more soon
+** Especially if he and Enkidu discuss spren in private
