@@ -233,7 +233,7 @@ Axehound 1:
 ** Starts glowing, Varinar calls him a Herald
 *** Jezra, Jezra, I knew you'd come! Those deathspren and voidbringers tried to get me, but I had faith
 ** Fathom says "we can help", power felt
-* Red line retreats back down into coat, not fully healed
+* Red line retreats back down into coat, not fully healed. Fatham says "we're so close but not quite ready. he still needs medicine"
 ** DC 10 medicine check to identify the right cause (cremling bite) and medicine
 *** Success: Surgeons come back in, ask what he did. Gains favor and access to surgeon tent
 *** Failure: Surgeons come back in, ask what he did. Congratulated for helping
@@ -245,7 +245,9 @@ Axehound 1:
 * Brightlord Thanadal dislikes Adolin
 * Thanadal's colors are red and brown
 * Ralanat is currently in Thanadal's warcamp
-* Nel would very much like to buy this info: 50 marks
+* Nel would very much like to buy this info: 50 marks or info trade
+** If info trade, Nel shares that Thanadal is rumored to be part of a secretive group called The Sons of Honor
+** If money, Persuasion roll against Nel's spiritual defence (13). She will use her focus if she has any left
 
 # Notes
 ## Leads
