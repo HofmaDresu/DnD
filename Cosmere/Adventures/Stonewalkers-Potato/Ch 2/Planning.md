@@ -252,15 +252,17 @@ Axehound 1:
 # Notes
 ## Leads
 - [x] A Thaylen menagerie owner won a strange chicken while gambling with a mysterious Shin traveler.
-- [] A Shin traveler visited the Aladar warcamp to attend the Red Rockbud, a gambling den.
-- [] The Shin traveler met with a full figured, attractive woman with dark hair in the Red Rockbud.
+- [x] A Shin traveler visited the Aladar warcamp to attend the Red Rockbud, a gambling den.
+- [x] The Shin traveler met with a full figured, attractive woman with dark hair in the Red Rockbud.
 - [] A woman matching that description has been seen wandering the Outer Market near the Crem Oven bakery.
 ## Favors
-* Bettani
+* Bettani (Cetza)
+* Shazam
+* Bordin
 ## Po'ahu's reactions
-- [] The rock emits the sound of grinding from within.
+- [x] The rock emits the sound of grinding from within.
 - [x] The rock gently vibrates.
-- [] The rock tumbles without being pushed.
+- [x] The rock tumbles without being pushed.
 - [x] The rock cracks, but immediately reseals without a trace
 
 # Session 0
