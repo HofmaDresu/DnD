@@ -13,7 +13,7 @@ Deep Regret. I committed terrible acts in the past and can’t forgive myself.
 ## Goals
 * Send help to the Caravan 0 / 3
 * Investigate Bright Lady 0 / 3
-* Speak the first ideal 0 / 3
+* Speak the first ideal 1 / 3
 
 ## Relationships
 
