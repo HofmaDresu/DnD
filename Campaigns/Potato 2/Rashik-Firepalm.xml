@@ -66,7 +66,7 @@
 <knownSpell lvl="1">magic missile</knownSpell>
 <knownSpell lvl="1">thunderwave</knownSpell>
 <knownSpell lvl="1">cure wounds</knownSpell>
-<knownSpell lvl="1">false life</knownSpell>
+<knownSpell lvl="1">catapult</knownSpell>
 <knownSpell lvl="1">faerie fire</knownSpell>
 <knownSpell lvl="1">feather fall</knownSpell>
 <knownSpell lvl="1"></knownSpell>
@@ -77,7 +77,7 @@
 <knownSpell lvl="2">mirror image</knownSpell>
 <knownSpell lvl="2">shatter</knownSpell>
 <knownSpell lvl="2">enlarge/reduce</knownSpell>
-<knownSpell lvl="2">levitate</knownSpell>
+<knownSpell lvl="2">darkvision</knownSpell>
 <knownSpell lvl="2"></knownSpell>
 <knownSpell lvl="2"></knownSpell>
 <knownSpell lvl="2"></knownSpell>
@@ -128,7 +128,18 @@ Ever since then I've focused my entire being on learning spells and abilities th
 <allies></allies>
 <features>My old spell focus gem acts as smith's tools, magically creating a spectral form of whatever tool I need. This counts as my Right Tool for the Job usage and is permanent
 
-My crystal armor is a symbiote. If I fall unconscious I can spend 1 hit dice to recover</features>
+My crystal armor is a symbiote. If I fall unconscious I can spend 1 hit dice to recover
+
+
+Arcane Armor
+* Guardian
+Infiltrator
+
+KNOWN INFUSIONS
+* enhanced defense
+enhanced weapon
+homunculus servant
+* replicate magic item: rope of climbing</features>
 <treasure>(stolen) Arcelous's book, gives +1 to history, +1 saving throws and ability checks against demons while in my possession
 Ship fog gem
 1/2 bag of arcane residium
@@ -142,7 +153,8 @@ Enchanted Rug Beater
 Claw from Sagauhen, that was once burning but no longer is
 School of Conjuration candle
 Tears of Failure (0/5 tears)
-Fel Menagerie book. </treasure>
+Fel Menagerie book. 
+Green Lantern</treasure>
 
 </character>
 </builder>
