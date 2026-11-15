@@ -1,6 +1,37 @@
 # Players / Characters
-Alfonso: Ylva Gabler
-Margo: Samuel Mäkinen
-Per: Una Ekblad
-Sarah: Edvin Klang
-RJ: Mikhail Orlyk
+1) Alfonso: Ylva Gabler
+2) Margo: Samuel Mäkinen
+3) Per: Una Ekblad
+4) Sarah: Edvin Klang
+5) RJ: Mikhail Orlyk
+
+
+
+Events
+1:20) Locked in
+1:50) Hauntings (1)
+2:00) Hauntings (4)
+2:10) Hauntings (5)
+2:20) Hauntings (6)
+2:30) Hauntings (2)
+2:40) Hauntings (3)
+3:00) Una's Vision
+3:10) Demon appears
+3:30) Demon attacks
+
+
+
+Combat:
+Ylva: 
+Samuel: 
+Una: 
+Edvin: 
+Mikhail: 
+Lamashtu: 
+Lamashtu: 
+
+Conditions: 6
+Moves 1:
+Moves 2: 
+
+Statue: 3
